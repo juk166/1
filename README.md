@@ -1,3 +1,7 @@
+
+https://plugins.jetbrains.com/plugin/index?xmlId=com.intellij.zh
+
+
 当然可以！将 HTML 和 JavaScript 分成两个文件可以使代码更加模块化和易于维护。以下是分离后的实现：
 
 ---
